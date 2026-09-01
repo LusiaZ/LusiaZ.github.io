@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /academic-activities/
+permalink: /activities/
 author_profile: true
 ---
 
