@@ -15,8 +15,6 @@ I received my degree in **专业名称** from **学校名称**.
 
 ## Research Interests
 
-------
-
 - Research topic one
 - Research topic two
 - Research topic three
