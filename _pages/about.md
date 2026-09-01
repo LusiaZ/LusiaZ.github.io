@@ -17,7 +17,6 @@ Hello there! I'm Zihan Zhang, also Lusia. I'm pursuing a DPhil (PhD) in Engineer
 - Recommender Systems
 - Data Mining
 
-## Selected Publications
 
 <h2 id="selected-publications">Selected Publications</h2>
 
