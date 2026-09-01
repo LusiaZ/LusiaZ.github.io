@@ -1,5 +1,5 @@
 ---
-title: "Academic Activities"
+title: ""
 permalink: /academic-activities/
 author_profile: true
 ---
