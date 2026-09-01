@@ -9,11 +9,7 @@ redirect_from:
 
 ## About
 
-I am **你的英文姓名**, currently a [你的职位](学校或机构链接) at **学校或机构名称**.
-
-My research interests include **研究方向一**, **研究方向二**, and **研究方向三**.
-
-I received my degree in **专业名称** from **学校名称**.
+Hello there! I'm Zihan Zhang, also Lusia. I'm pursuing a DPhil (PhD) in Engineering Science at the University of Oxford. I received my master's degree from Peking University, where I was supervised by [Prof. Zhonghai Wu](https://baike.baidu.com/item/%E5%90%B4%E4%B8%AD%E6%B5%B7/1708588) and [Prof. Hongzhi Liu](https://ss.pku.edu.cn/sztd/gcglsssz/3797396d7e7e4ece91563bcc2cac7291.htm). Prior to that, I received my bachelor's degree from Hebei University of Technology.
 
 ## Research Interests
 
