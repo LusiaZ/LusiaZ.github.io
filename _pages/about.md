@@ -19,8 +19,62 @@ Hello there! I'm Zihan Zhang, also Lusia. I'm pursuing a DPhil (PhD) in Engineer
 
 ## Selected Publications
 
-**University Name**  
-Degree and Major, 2022–2026
+<h2 id="selected-publications">Selected Publications</h2>
 
-**University Name**  
-Degree and Major, 2018–2022
+<div class="selected-pubs">
+
+  <article class="selected-pub">
+    <div class="pub-badge">ICML</div>
+
+    <div class="pub-info">
+      <a class="pub-title"
+         href="论文链接"
+         target="_blank"
+         rel="noopener noreferrer">
+        Your First Paper Title
+      </a>
+
+      <p class="pub-authors">
+        <strong>Your Name</strong>, Author Two, Author Three
+      </p>
+
+      <p class="pub-venue">
+        International Conference on Machine Learning, 2026
+      </p>
+
+      <div class="pub-links">
+        <a class="pub-button" href="论文链接" target="_blank">Paper</a>
+        <a class="pub-button" href="代码链接" target="_blank">Code</a>
+        <a class="pub-button" href="BibTeX链接" target="_blank">Bib</a>
+      </div>
+    </div>
+  </article>
+
+
+  <article class="selected-pub">
+    <div class="pub-badge">AAAI</div>
+
+    <div class="pub-info">
+      <a class="pub-title"
+         href="论文链接"
+         target="_blank"
+         rel="noopener noreferrer">
+        Your Second Paper Title
+      </a>
+
+      <p class="pub-authors">
+        Author One, <strong>Your Name</strong>, Author Three
+      </p>
+
+      <p class="pub-venue">
+        AAAI Conference on Artificial Intelligence, 2025
+      </p>
+
+      <div class="pub-links">
+        <a class="pub-button" href="论文链接" target="_blank">Paper</a>
+        <a class="pub-button" href="代码链接" target="_blank">Code</a>
+      </div>
+    </div>
+  </article>
+
+</div>
