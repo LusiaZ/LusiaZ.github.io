@@ -153,9 +153,16 @@
     height: auto;
   }
 
+  // img {
+  //   max-width: 175px;
+  //   border-radius: 50%;
+
   img {
     max-width: 175px;
-    border-radius: 50%;
+    aspect-ratio: 4 / 5;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 6px;
 
     @include breakpoint($large) {
       padding: 5px;
