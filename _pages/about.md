@@ -27,7 +27,7 @@ Hello there! I'm Zihan Zhang, also Lusia. I'm pursuing a DPhil (PhD) in Engineer
 
     <div class="pub-info">
       <a class="pub-title"
-         href="[论文链接](https://ojs.aaai.org/index.php/AAAI/article/view/38681)"
+         href="https://ojs.aaai.org/index.php/AAAI/article/view/38681"
          target="_blank"
          rel="noopener noreferrer">
         Knowledge-Enhanced Explainable Hypergraph Convolution Network for Medication Recommendation
@@ -52,11 +52,11 @@ Hello there! I'm Zihan Zhang, also Lusia. I'm pursuing a DPhil (PhD) in Engineer
          href="论文链接"
          target="_blank"
          rel="noopener noreferrer">
-        Your Second Paper Title
+        BH^3‑MedRec: Bilateral Hierarchical Heterogeneous Hypergraph Convolution Network for Medication Recommendation
       </a>
 
       <p class="pub-authors">
-        Author One, <strong>Your Name</strong>, Author Three
+        <strong>Zihan Zhang</strong>, H. Liu, T. Sun, X. Guo, Z. Wu
       </p>
 
       <p class="pub-venue">
