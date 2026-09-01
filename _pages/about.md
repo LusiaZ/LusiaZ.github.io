@@ -24,7 +24,7 @@ Hello there! I'm Zihan Zhang, also Lusia. I'm pursuing a DPhil (PhD) in Engineer
 
   <article class="selected-pub">
     <div class="pub-badge">AAAI 2026</div>
-
+  
     <div class="pub-info">
       <a class="pub-title"
          href="https://ojs.aaai.org/index.php/AAAI/article/view/38681"
@@ -32,13 +32,13 @@ Hello there! I'm Zihan Zhang, also Lusia. I'm pursuing a DPhil (PhD) in Engineer
          rel="noopener noreferrer">
         Knowledge-Enhanced Explainable Hypergraph Convolution Network for Medication Recommendation
       </a>
-
+  
       <p class="pub-authors">
         <strong>Zihan Zhang</strong>, H. Liu, X. Guo, T. Sun, Z. Wu
       </p>
-
+  
       <p class="pub-venue">
-        AAAI Conference on Artificial Intelligence, 2026 (Oral)
+        <em>AAAI Conference on Artificial Intelligence, 2026 (Oral)</em>
       </p>
     </div>
   </article>
@@ -46,27 +46,43 @@ Hello there! I'm Zihan Zhang, also Lusia. I'm pursuing a DPhil (PhD) in Engineer
 
   <article class="selected-pub">
     <div class="pub-badge">TIST 2026</div>
-
+  
     <div class="pub-info">
       <a class="pub-title"
-         href="论文链接"
+         href="https://dl.acm.org/doi/10.1145/3779446"
          target="_blank"
          rel="noopener noreferrer">
-        BH^3‑MedRec: Bilateral Hierarchical Heterogeneous Hypergraph Convolution Network for Medication Recommendation
+        BH<sup>3</sup>‑MedRec: Bilateral Hierarchical Heterogeneous Hypergraph Convolution Network for Medication Recommendation
       </a>
-
+  
       <p class="pub-authors">
         <strong>Zihan Zhang</strong>, H. Liu, T. Sun, X. Guo, Z. Wu
       </p>
-
+  
       <p class="pub-venue">
-        AAAI Conference on Artificial Intelligence, 2025
+        <em>ACM Transactions on Itelligent Systems and Technology, 2026</em>
       </p>
+    </div>
+  </article>
 
-      <div class="pub-links">
-        <a class="pub-button" href="论文链接" target="_blank">Paper</a>
-        <a class="pub-button" href="代码链接" target="_blank">Code</a>
-      </div>
+  <article class="selected-pub">
+    <div class="pub-badge">DASFAA 2025</div>
+  
+    <div class="pub-info">
+      <a class="pub-title"
+         href="https://dl.acm.org/doi/abs/10.1007/978-981-95-4155-3_14"
+         target="_blank"
+         rel="noopener noreferrer">
+        HHGCN‑DrugRec: Hierarchical HyperGraph Convolution Network for Drug Combination Recommendation
+      </a>
+  
+      <p class="pub-authors">
+        <strong>Zihan Zhang</strong>, H. Liu, T. Sun, X. Guo, Z. Wu
+      </p>
+  
+      <p class="pub-venue">
+        <em>International Conference on Database Systems for Advanced Applications, 2025 (Oral)</em>
+      </p>
     </div>
   </article>
 
