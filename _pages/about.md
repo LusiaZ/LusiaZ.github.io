@@ -13,11 +13,11 @@ Hello there! I'm Zihan Zhang, also Lusia. I'm pursuing a DPhil (PhD) in Engineer
 
 ## Research Interests
 
-- Research topic one
-- Research topic two
-- Research topic three
+- AI for Healthcare
+- Recommender Systems
+- Data Mining
 
-## Education
+## Selected Publications
 
 **University Name**  
 Degree and Major, 2022–2026
