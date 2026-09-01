@@ -34,24 +34,18 @@ Hello there! I'm Zihan Zhang, also Lusia. I'm pursuing a DPhil (PhD) in Engineer
       </a>
 
       <p class="pub-authors">
-        <strong>Your Name</strong>, Author Two, Author Three
+        <strong>Zihan Zhang</strong>, H. Liu, X. Guo, T. Sun, Z. Wu
       </p>
 
       <p class="pub-venue">
-        International Conference on Machine Learning, 2026
+        AAAI Conference on Artificial Intelligence, 2026 (Oral)
       </p>
-
-      <div class="pub-links">
-        <a class="pub-button" href="论文链接" target="_blank">Paper</a>
-        <a class="pub-button" href="代码链接" target="_blank">Code</a>
-        <a class="pub-button" href="BibTeX链接" target="_blank">Bib</a>
-      </div>
     </div>
   </article>
 
 
   <article class="selected-pub">
-    <div class="pub-badge">AAAI</div>
+    <div class="pub-badge">TIST 2026</div>
 
     <div class="pub-info">
       <a class="pub-title"
