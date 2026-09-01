@@ -27,10 +27,10 @@ author:
   name             : "Zihan Zhang"
   pronouns         : # example: "she/her"  
   bio              : ""
-  location         : ""
+  location         : "Oxford, UK"
   employer         : "University of Oxford"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zihan.zhang@eng.ox.ac.uk" 
 
   # Academic websites
   academia         : # URL
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
