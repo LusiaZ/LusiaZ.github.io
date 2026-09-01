@@ -23,14 +23,14 @@ Hello there! I'm Zihan Zhang, also Lusia. I'm pursuing a DPhil (PhD) in Engineer
 <div class="selected-pubs">
 
   <article class="selected-pub">
-    <div class="pub-badge">ICML</div>
+    <div class="pub-badge">AAAI 2026</div>
 
     <div class="pub-info">
       <a class="pub-title"
-         href="论文链接"
+         href="[论文链接](https://ojs.aaai.org/index.php/AAAI/article/view/38681)"
          target="_blank"
          rel="noopener noreferrer">
-        Your First Paper Title
+        Knowledge-Enhanced Explainable Hypergraph Convolution Network for Medication Recommendation
       </a>
 
       <p class="pub-authors">
