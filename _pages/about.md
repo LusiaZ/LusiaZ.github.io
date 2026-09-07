@@ -87,3 +87,18 @@ Hello there! I'm Zihan Zhang, also Lusia. I'm pursuing a DPhil (PhD) in Engineer
   </article>
 
 </div>
+
+<section class="contact-cta">
+  <div class="contact-text">
+    <h3>Get in Touch</h3>
+    <p>
+      I am always happy to discuss research collaborations, academic
+      opportunities, or shared interests. Please feel free to reach out!
+    </p>
+  </div>
+
+  <a class="contact-button"
+     href="mailto:zihan.zhang@eng.ox.ac.uk">
+    Email Me
+  </a>
+</section>
