@@ -1,42 +1,117 @@
-<!-- ---
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
---- -->
-
 ---
 title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Publications</h2>
 
-{% include base_path %}
+<p>
+  A complete list of my publications is also available on
+  <a href="https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+     target="_blank"
+     rel="noopener noreferrer">
+    Google Scholar
+  </a>.
+</p>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<div class="selected-pubs">
+
+  <!-- 第一篇 -->
+  <article class="selected-pub">
+    <div class="pub-badge">AAAI 2026</div>
+
+    <div class="pub-info">
+      <a class="pub-title"
+         href="https://ojs.aaai.org/index.php/AAAI/article/view/38681"
+         target="_blank"
+         rel="noopener noreferrer">
+        Knowledge-Enhanced Explainable Hypergraph Convolution Network
+        for Medication Recommendation
+      </a>
+
+      <p class="pub-authors">
+        <strong>Zihan Zhang</strong>, H. Liu, X. Guo, T. Sun, Z. Wu
+      </p>
+
+      <p class="pub-venue">
+        <em>AAAI Conference on Artificial Intelligence, 2026 (Oral)</em>
+      </p>
+    </div>
+  </article>
 
 
+  <!-- 第二篇 -->
+  <article class="selected-pub">
+    <div class="pub-badge">TIST 2026</div>
 
+    <div class="pub-info">
+      <a class="pub-title"
+         href="论文链接"
+         target="_blank"
+         rel="noopener noreferrer">
+        BH<sup>3</sup>-MedRec: Bilateral Hierarchical Heterogeneous
+        Hypergraph Convolution Network for Medication Recommendation
+      </a>
+
+      <p class="pub-authors">
+        <strong>Zihan Zhang</strong>, H. Liu, T. Sun, X. Guo, Z. Wu
+      </p>
+
+      <p class="pub-venue">
+        <em>ACM Transactions on Intelligent Systems and Technology, 2026</em>
+      </p>
+    </div>
+  </article>
+
+
+  <!-- 第三篇 -->
+  <article class="selected-pub">
+    <div class="pub-badge">DASFAA 2025</div>
+
+    <div class="pub-info">
+      <a class="pub-title"
+         href="论文链接"
+         target="_blank"
+         rel="noopener noreferrer">
+        HHGCN-DrugRec: Hierarchical HyperGraph Convolution Network
+        for Drug Combination Recommendation
+      </a>
+
+      <p class="pub-authors">
+        <strong>Zihan Zhang</strong>, H. Liu, T. Sun, X. Guo, Z. Wu
+      </p>
+
+      <p class="pub-venue">
+        <em>
+          International Conference on Database Systems for Advanced
+          Applications, 2025 (Oral)
+        </em>
+      </p>
+    </div>
+  </article>
+
+
+  <!-- 从这里开始添加不在 Home 页面展示的其他论文 -->
+  <article class="selected-pub">
+    <div class="pub-badge">VENUE 2024</div>
+
+    <div class="pub-info">
+      <a class="pub-title"
+         href="论文链接"
+         target="_blank"
+         rel="noopener noreferrer">
+        Title of Another Publication
+      </a>
+
+      <p class="pub-authors">
+        Author One, <strong>Zihan Zhang</strong>, Author Three
+      </p>
+
+      <p class="pub-venue">
+        <em>Full Conference or Journal Name, 2024</em>
+      </p>
+    </div>
+  </article>
+
+</div>
