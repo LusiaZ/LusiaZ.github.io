@@ -536,3 +536,96 @@
     gap: 1rem;
   }
 }
+
+/* Collapsible publication groups */
+.pub-group {
+  margin: 1.5rem 0 2rem;
+  border: 1px solid var(--global-border-color);
+  border-radius: 9px;
+  background: var(--global-bg-color);
+  overflow: hidden;
+  transition: box-shadow 0.2s ease;
+}
+
+.pub-group[open] {
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}
+
+.pub-group > summary {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  padding: 1rem 1.25rem;
+  cursor: pointer;
+  list-style: none;
+
+  color: var(--global-text-color);
+  background: rgba(54, 152, 245, 0.08);
+  font-size: 1.15rem;
+  font-weight: 700;
+}
+
+/* 隐藏浏览器默认三角形 */
+.pub-group > summary::-webkit-details-marker {
+  display: none;
+}
+
+/* 论文数量 */
+.pub-count {
+  margin-left: auto;
+  padding: 0.18rem 0.55rem;
+
+  border: 1px solid #3698f5;
+  border-radius: 20px;
+
+  color: #3698f5;
+  font-size: 0.72rem;
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+/* 展开、收起按钮 */
+.pub-group > summary::after {
+  content: "+";
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+
+  background: #3698f5;
+  color: #ffffff;
+  font-size: 1rem;
+  line-height: 1;
+}
+
+.pub-group[open] > summary::after {
+  content: "−";
+}
+
+.pub-group-content {
+  padding: 1.5rem 1.25rem 0.25rem;
+}
+
+.pub-group-content .selected-pubs {
+  margin-top: 0;
+}
+
+.pub-group-content .selected-pub:last-child {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 700px) {
+  .pub-group > summary {
+    padding: 0.85rem 1rem;
+    font-size: 1rem;
+  }
+
+  .pub-group-content {
+    padding: 1.2rem 1rem 0.2rem;
+  }
+}
