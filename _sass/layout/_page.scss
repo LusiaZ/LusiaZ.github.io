@@ -476,3 +476,63 @@
     gap: 0.6rem;
   }
 }
+/* Contact card on homepage */
+.contact-cta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 2rem;
+
+  margin-top: 3.5rem;
+  margin-bottom: 2rem;
+  padding: 1.4rem 1.6rem;
+
+  border: 1px solid var(--global-border-color);
+  border-left: 5px solid #3698f5;
+  border-radius: 8px;
+  background: var(--global-bg-color);
+}
+
+.contact-text {
+  flex: 1;
+}
+
+.contact-cta h3 {
+  margin: 0 0 0.45rem;
+  font-size: 1.25rem;
+}
+
+.contact-cta p {
+  margin: 0 !important;
+  font-size: 0.95rem !important;
+  line-height: 1.6;
+}
+
+.page__content .contact-button {
+  display: inline-block;
+  flex-shrink: 0;
+
+  padding: 0.55rem 1.1rem;
+  border-radius: 5px;
+
+  background: #3698f5;
+  color: #ffffff;
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-decoration: none !important;
+  transition: background 0.2s ease;
+}
+
+.page__content .contact-button:hover {
+  background: #217fcf;
+  color: #ffffff;
+}
+
+/* Mobile layout */
+@media (max-width: 700px) {
+  .contact-cta {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+}
