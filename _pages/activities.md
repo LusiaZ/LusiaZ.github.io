@@ -31,19 +31,19 @@ author_profile: true
   <!-- 第二条活动 -->
   <article class="activity-card">
     <div class="activity-meta">
-      <time datetime="2025-05-15">May 15, 2025</time>
-      <span>City, Country</span>
+      <time datetime="2025-05-27">May 27, 2025</time>
+      <span>Singapore</span>
     </div>
 
     <p class="activity-description">
-      I participated in <strong>Workshop Name</strong> and had inspiring
+      🎉 I participated in <strong>DASFAA 2025</strong> and had inspiring
       discussions with researchers working on recommender systems and
       data mining.
     </p>
 
     <img class="activity-photo"
-         src="/images/workshop-2025.jpg"
-         alt="Participating in Workshop Name"
+         src="/images/dasfaa-2025.jpg"
+         alt="Participating in DASFAA 2025"
          loading="lazy">
   </article>
 
