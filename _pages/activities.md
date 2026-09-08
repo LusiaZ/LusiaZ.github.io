@@ -11,7 +11,7 @@ author_profile: true
   <!-- 第一条活动 -->
   <article class="activity-card">
     <div class="activity-meta">
-      <time datetime="2026-07-22">Janu 22, 2026</time>
+      <time datetime="2026-07-22">January 22, 2026</time>
       <span>Singapore</span>
     </div>
 
