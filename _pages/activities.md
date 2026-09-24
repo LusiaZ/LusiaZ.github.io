@@ -42,7 +42,7 @@ author_profile: true
     </p>
 
     <img class="activity-photo"
-         src="/images/dasfaa-2025.jpg"
+         
          alt="Participating in DASFAA 2025"
          loading="lazy">
   </article>
