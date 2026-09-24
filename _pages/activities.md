@@ -40,11 +40,6 @@ author_profile: true
       discussions with researchers working on recommender systems and
       data mining.
     </p>
-
-    <img class="activity-photo"
-         
-         alt="Participating in DASFAA 2025"
-         loading="lazy">
   </article>
 
 </div>
